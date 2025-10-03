@@ -1,4 +1,2 @@
 # Shiri's Hyprland dotfiles
-quickshell
-
--cute
+font - https://github.com/rektdeckard/departure-mono/
