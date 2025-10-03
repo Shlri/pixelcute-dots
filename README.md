@@ -1,1 +1,2 @@
-# hyprland-dots
+# Shiri's Hyprland dotfiles
+quickshell
