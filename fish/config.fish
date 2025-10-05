@@ -15,4 +15,5 @@ if status is-interactive
 
     alias ls lsd
     alias install "sudo pacman -S"
+    fastfetch
 end

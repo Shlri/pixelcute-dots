@@ -16,7 +16,7 @@ $time$line_break$character
 [directory]
 truncation_length = 3
 truncate_to_repo = false
-format = "[ $path]($style)[$read_only]($read_only_style) "
+format = " [ $path]($style)[$read_only]($read_only_style) "
 style = "#89CFF0"
 read_only = " "  # Пиксельный "закрытый" символ
 read_only_style = "red"
@@ -51,5 +51,5 @@ disabled = false
 
 # Стрелка промпта (пиксельные стрелки для успеха/ошибки)
 [character]
-success_symbol = "[](bold #89CFF0)"  # Пиксельная стрелка вправо (успех, голубая)
-error_symbol = "[⊘︎](bold #FFB6C1)"    # Пиксельная стрелка вниз (ошибка, розовая)
+success_symbol = " [](bold #89CFF0)"  # Пиксельная стрелка вправо (успех, голубая)
+error_symbol = " [⊘︎ ](bold #FFB6C1)"    # Пиксельная стрелка вниз (ошибка, розовая)
