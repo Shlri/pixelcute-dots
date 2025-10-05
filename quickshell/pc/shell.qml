@@ -1,8 +1,6 @@
 import Quickshell
-import "wallpaper.qml" as Wallpaper
+import "wallpaper.qml"
 
 ShellRoot {
-    id: root
-
-    Wallpaper.wallpaper {}
+    wallpaper {}
 }
