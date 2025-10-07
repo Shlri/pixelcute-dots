@@ -1,0 +1,146 @@
+# Пастельная Latte: прозрачная, с ui.selection
+
+[editor]
+bg = "transparent"
+fg = "text"
+black = "surface1"
+red = "red"
+green = "green"
+yellow = "yellow"
+blue = "blue"
+magenta = "pink"
+cyan = "teal"
+white = "subtext1"
+bright-black = "surface2"
+bright-red = "red"
+bright-green = "green"
+bright-yellow = "yellow"
+bright-blue = "blue"
+bright-magenta = "pink"
+bright-cyan = "teal"
+bright-white = "subtext0"
+
+[editor.cursor]
+primary = { bg = "text", fg = "base" }
+line-number = "subtext0"
+selection = { bg = "surface1", fg = "text" }
+
+[editor.dim]
+bg = "transparent"
+fg = "subtext1"
+
+[editor.statusline]
+bg = "transparent"
+fg = "text"
+separator = " "
+left = ["mode", "spinner", "file-name", "file-modification-indicator", "file-encoding", "position", "position-percentage", "selections"]
+right = ["diagnostics", "workspace-diagnostics", "register", "version-control", "tabs"]
+mode.normal = { fg = "base", bg = "blue" }
+mode.insert = { fg = "base", bg = "green" }
+mode.select = { fg = "base", bg = "pink" }
+
+[editor.filetype]
+rust = { fg = "blue", bg = "transparent", italic = true }
+toml = { fg = "yellow", bg = "transparent", italic = true }
+yaml = { fg = "teal", bg = "transparent", italic = true }
+
+[editor.gutter]
+bg = "transparent"
+fg = "subtext0"
+current-line-number = { fg = "text", bg = "transparent" }
+line-numbers = "subtext1"
+
+[editor.indent-guides]
+bg = "transparent"
+fg = "surface0"
+
+[editor.search]
+bg = "yellow"
+fg = "text"
+
+[editor.whitespace]
+bg = "transparent"
+fg = "surface1"
+
+[diagnostics]
+error = "red"
+warning = "yellow"
+info = "blue"
+hint = "teal"
+
+[ui]
+bg = "transparent"
+fg = "text"
+black = "surface1"
+red = "red"
+green = "green"
+yellow = "yellow"
+blue = "blue"
+magenta = "pink"
+cyan = "teal"
+white = "subtext1"
+bright-black = "surface2"
+bright-red = "red"
+bright-green = "green"
+bright-yellow = "yellow"
+bright-blue = "blue"
+bright-magenta = "pink"
+bright-cyan = "teal"
+bright-white = "subtext0"
+selection = { bg = "#89CFF0", fg = "#333333" }  
+
+[palette]
+rosewater = "#dc8a78"
+flamingo = "#dd7878"
+pink = "#FFB6C1"
+mauve = "#8839ef"
+red = "#d20f39"
+maroon = "#e64553"
+peach = "#fe640b"
+yellow = "#df8e1d"
+green = "#40a02b"
+teal = "#179299"
+sky = "#89CFF0"
+sapphire = "#209fb5"
+blue = "#1e66f5"
+lavender = "#7287fd"
+text = "#333333"
+subtext1 = "#5c5f77"
+subtext0 = "#6c6f85"
+overlay2 = "#7c7f93"
+overlay1 = "#8c8fa1"
+overlay0 = "#9ca0b0"
+surface2 = "#acb0be"
+surface1 = "#bcc0cc"
+surface0 = "#ccd0da"
+base = "transparent"  # Helix позволяет transparent для palette
+mantle = "transparent"
+crust = "transparent"
+
+[palette.bright]
+rosewater = "#c14a4a"
+flamingo = "#c14a4a"
+pink = "#c14a4a"
+mauve = "#8839ef"
+red = "#c14a4a"
+maroon = "#c14a4a"
+peach = "#c14a4a"
+yellow = "#c14a4a"
+green = "#40a02b"
+teal = "#179299"
+sky = "#04a5e5"
+sapphire = "#209fb5"
+blue = "#1e66f5"
+lavender = "#7287fd"
+text = "#4c4f69"
+subtext1 = "#5c5f77"
+subtext0 = "#6c6f85"
+overlay2 = "#7c7f93"
+overlay1 = "#8c8fa1"
+overlay0 = "#9ca0b0"
+surface2 = "#acb0be"
+surface1 = "#bcc0cc"
+surface0 = "#ccd0da"
+base = "transparent"
+mantle = "transparent"
+crust = "transparent"

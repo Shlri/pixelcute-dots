@@ -1,0 +1,23 @@
+# Базовые настройки Helix (без transparent)
+theme = "pastel-latte"  # Твоя тема
+
+[editor]
+line-number = "relative"
+mouse = false
+color-modes = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.lsp]
+enable = true
+auto-signature-help = true
+
+[editor.soft-wrap]
+enable = true
+wrap-indicator = " →"
+
+[keys.normal]
+# Твои бинды, если нужно
