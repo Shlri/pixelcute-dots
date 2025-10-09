@@ -1,12 +1,10 @@
-# Пастельная палитра (одноцветные иконки наследуют цвета)
 [palettes.pastel]
-directory = "#89CFF0"      # Голубой для директории и иконок
-git_branch = "#FFB6C1"     # Розовый для Git
-git_status = "#333333"     # Серый для статуса
-time = "#89CFF0"           # Голубой для времени
+directory = "#89CFF0"
+git_branch = "#FFB6C1"    
+git_status = "#333333"    
+time = "#89CFF0"          
 palette = "pastel"
 
-# Формат промпта (компактный)
 format = """
 $username$hostname$directory\
 $git_branch$git_commit$git_state$git_status\
@@ -18,18 +16,16 @@ truncation_length = 3
 truncate_to_repo = false
 format = " [ $path]($style)[$read_only]($read_only_style) "
 style = "#89CFF0"
-read_only = " "  # Пиксельный "закрытый" символ
+read_only = " "
 read_only_style = "red"
 
-# Git-ветка (с пиксельной иконкой ветки)
 [git_branch]
-symbol = " "  # Пиксельная ветка
+symbol = " "
 format = "[$symbol$branch]($style) "
 style = "#FFB6C1"
 truncation_length = 30
 truncation_symbol = "…"
 
-# Git-статус (минималистичный, без лишних иконок)
 [git_status]
 format = '([\[$all_status$ahead_behind\]]($style) )'
 style = "#333333"
@@ -45,11 +41,9 @@ staged = "+"
 renamed = "»"
 deleted = "✘"
 
-# Перенос строки
 [line_break]
 disabled = false
 
-# Стрелка промпта (пиксельные стрелки для успеха/ошибки)
 [character]
 success_symbol = " [](bold #89CFF0)"  # Пиксельная стрелка вправо (успех, голубая)
 error_symbol = " [⊘︎ ](bold #FFB6C1)"    # Пиксельная стрелка вниз (ошибка, розовая)

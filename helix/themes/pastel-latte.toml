@@ -1,4 +1,22 @@
-# Пастельная Latte: прозрачная, с ui.selection
+ui.bg = "transparent"
+ui.fg = "text"
+ui.black = "surface1"
+ui.red = "red"
+ui.green = "green"
+ui.yellow = "yellow"
+ui.blue = "blue"
+ui.magenta = "pink"
+ui.cyan = "teal"
+ui.white = "subtext1"
+ui.bright-black = "surface2"
+ui.bright-red = "red"
+ui.bright-green = "green"
+ui.bright-yellow = "yellow"
+ui.bright-blue = "blue"
+ui.bright-magenta = "pink"
+ui.bright-cyan = "teal"
+ui.bright-white = "subtext0"
+'ui.selection' = { bg = "#89CFF0", fg = "#333333" }
 
 [editor]
 bg = "transparent"
@@ -66,28 +84,7 @@ fg = "surface1"
 error = "red"
 warning = "yellow"
 info = "blue"
-hint = "teal"
-
-[ui]
-bg = "transparent"
-fg = "text"
-black = "surface1"
-red = "red"
-green = "green"
-yellow = "yellow"
-blue = "blue"
-magenta = "pink"
-cyan = "teal"
-white = "subtext1"
-bright-black = "surface2"
-bright-red = "red"
-bright-green = "green"
-bright-yellow = "yellow"
-bright-blue = "blue"
-bright-magenta = "pink"
-bright-cyan = "teal"
-bright-white = "subtext0"
-selection = { bg = "#89CFF0", fg = "#333333" }  
+hint = "teal"  
 
 [palette]
 rosewater = "#dc8a78"
