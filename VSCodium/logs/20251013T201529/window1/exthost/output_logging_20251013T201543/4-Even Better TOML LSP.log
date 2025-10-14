@@ -1,0 +1,79 @@
+ INFO registered request handler method="initialize"
+ INFO registered request handler method="textDocument/foldingRange"
+ INFO registered request handler method="textDocument/documentSymbol"
+ INFO registered request handler method="textDocument/formatting"
+ INFO registered request handler method="textDocument/completion"
+ INFO registered request handler method="textDocument/hover"
+ INFO registered request handler method="textDocument/documentLink"
+ INFO registered request handler method="textDocument/semanticTokens/full"
+ INFO registered request handler method="textDocument/prepareRename"
+ INFO registered request handler method="textDocument/rename"
+ INFO registered notification handler method="initialized"
+ INFO registered notification handler method="textDocument/didOpen"
+ INFO registered notification handler method="textDocument/didChange"
+ INFO registered notification handler method="textDocument/didSave"
+ INFO registered notification handler method="textDocument/didClose"
+ INFO registered notification handler method="workspace/didChangeConfiguration"
+ INFO registered notification handler method="workspace/didChangeWorkspaceFolders"
+ INFO registered request handler method="taplo/convertToJson"
+ INFO registered request handler method="taplo/convertToToml"
+ INFO registered request handler method="taplo/listSchemas"
+ INFO registered request handler method="taplo/associatedSchema"
+ INFO registered notification handler method="taplo/associateSchema"
+ WARN initialize:initialize: failed to fetch catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5))
+
+Caused by:
+    JsValue(TypeError: fetch failed
+    TypeError: fetch failed
+        at node:internal/deps/undici/undici:13510:13
+        at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=file:///home/shiri/Documents/game
+ERROR initialize:initialize: failed to add schemas from catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=file:///home/shiri/Documents/game
+ WARN update_configuration:initialize: failed to fetch catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5))
+
+Caused by:
+    JsValue(TypeError: fetch failed
+    TypeError: fetch failed
+        at node:internal/deps/undici/undici:13510:13
+        at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=root:///
+ERROR update_configuration:initialize: failed to add schemas from catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=root:///
+ WARN update_configuration:initialize: failed to fetch catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5))
+
+Caused by:
+    JsValue(TypeError: fetch failed
+    TypeError: fetch failed
+        at node:internal/deps/undici/undici:13510:13
+        at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=file:///home/shiri/Documents/game
+ERROR update_configuration:initialize: failed to add schemas from catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=file:///home/shiri/Documents/game
+ WARN update_configuration:initialize: failed to fetch catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5))
+
+Caused by:
+    JsValue(TypeError: fetch failed
+    TypeError: fetch failed
+        at node:internal/deps/undici/undici:13510:13
+        at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=file:///home/shiri/Documents/game
+ERROR update_configuration:initialize: failed to add schemas from catalog error=error sending request: JsValue(TypeError: fetch failed
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)) self.root=file:///home/shiri/Documents/game
+ WARN no notification handler registered method=$/setTrace

@@ -1,0 +1,3 @@
+import Quickshell.Hyprland
+import Quickshell
+import QtQuick

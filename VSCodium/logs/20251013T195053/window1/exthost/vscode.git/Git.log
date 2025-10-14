@@ -1,0 +1,80 @@
+2025-10-13 19:50:55.954 [info] [main] Log level: Info
+2025-10-13 19:50:55.954 [info] [main] Validating found git in: "git"
+2025-10-13 19:50:55.954 [info] [main] Using git "2.51.0" from "git"
+2025-10-13 19:50:55.954 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-13 19:50:55.954 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-13 19:50:55.954 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2025-10-13 19:50:55.954 [info] [Model][openRepository] Opened repository (path): /home/shiri/Documents/code/python-ollama-tg-selfbot
+2025-10-13 19:50:55.954 [info] [Model][openRepository] Opened repository (real path): /home/shiri/Documents/code/python-ollama-tg-selfbot
+2025-10-13 19:50:55.954 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-13 19:50:55.954 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-13 19:50:55.954 [info] > git config --get commit.template [12ms]
+2025-10-13 19:50:55.954 [info] [Git][getRemotes] No remotes found in the git config file
+2025-10-13 19:50:55.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-10-13 19:50:55.955 [warning] [Git][getBranch] No such branch: master
+2025-10-13 19:50:55.966 [info] > git status -z -uall [6ms]
+2025-10-13 19:50:55.966 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-10-13 19:50:56.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2025-10-13 19:50:56.006 [warning] [Git][getBranch] No such branch: master
+2025-10-13 19:50:56.007 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-10-13 19:50:56.015 [info] > git config --get commit.template [9ms]
+2025-10-13 19:50:56.023 [info] [Git][getRemotes] No remotes found in the git config file
+2025-10-13 19:50:56.048 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2025-10-13 19:50:56.048 [warning] [Git][getBranch] No such branch: master
+2025-10-13 19:50:56.056 [info] > git status -z -uall [4ms]
+2025-10-13 19:50:56.056 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-13 19:50:56.512 [info] > git check-ignore -v -z --stdin [3ms]
+2025-10-13 19:51:22.469 [info] [main] Log level: Info
+2025-10-13 19:51:22.469 [info] [main] Validating found git in: "git"
+2025-10-13 19:51:22.469 [info] [main] Using git "2.51.0" from "git"
+2025-10-13 19:51:22.469 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-13 19:51:22.469 [info] > git rev-parse --show-toplevel [6ms]
+2025-10-13 19:51:22.481 [info] > git rev-parse --show-toplevel [5ms]
+2025-10-13 19:51:22.682 [info] > git rev-parse --show-toplevel [30ms]
+2025-10-13 19:51:22.687 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-10-13 19:51:22.695 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:51:22.701 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:51:24.636 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:51:24.915 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:52:20.510 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:52:30.983 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:52:32.172 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:52:33.258 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:52:33.470 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:52:47.369 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:52:48.384 [info] > git rev-parse --show-toplevel [9ms]
+2025-10-13 19:52:54.832 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:52:55.553 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:53:01.880 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:53:05.862 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:53:06.507 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:53:10.179 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:53:10.872 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:53:13.918 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:53:15.213 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:54:04.116 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:54:04.504 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:54:06.968 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:56:20.266 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:10.257 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:10.740 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:15.805 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:19.593 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:20.391 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:21.285 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:25.449 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:25.925 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:26.836 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:28.137 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:30.840 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:32.014 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:32.623 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:33.172 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:33.650 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:39.636 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:40.341 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-13 19:57:41.085 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:43.461 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:45.981 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:46.909 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-13 19:57:47.561 [info] > git rev-parse --show-toplevel [2ms]

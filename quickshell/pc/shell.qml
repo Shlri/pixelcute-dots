@@ -1,8 +1,9 @@
 import Quickshell
-import "wallpaper.qml"
-import "launcher.qml"
-import "bar.qml"
+import "Wallpaper.qml"
+import "Launcher.qml"
+import "Bar.qml"
+import "Lockscreen.qml"
 
 ShellRoot {
-    wallpaper {}
+    
 }

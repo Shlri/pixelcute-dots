@@ -1,0 +1,46 @@
+2025-10-11 12:47:35.419 [info] [main] Log level: Info
+2025-10-11 12:47:35.419 [info] [main] Validating found git in: "git"
+2025-10-11 12:47:35.419 [info] [main] Using git "2.51.0" from "git"
+2025-10-11 12:47:35.419 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-11 12:47:35.419 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-11 12:49:42.570 [info] [main] Log level: Info
+2025-10-11 12:49:42.570 [info] [main] Validating found git in: "git"
+2025-10-11 12:49:42.570 [info] [main] Using git "2.51.0" from "git"
+2025-10-11 12:49:42.570 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-11 12:49:42.570 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-11 12:49:42.578 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 12:49:42.579 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-10-11 13:06:52.185 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 13:06:53.034 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 13:06:53.476 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 13:06:58.335 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 13:38:11.285 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 13:38:18.935 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:19:03.461 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:20:43.895 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:27:44.669 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:27:47.530 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:27:50.694 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:27:53.158 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:27:53.978 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:27:56.177 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:31:36.470 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:31:39.445 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:31:40.437 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:31:47.256 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:31:49.212 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:31:49.931 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:31:52.346 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:31:53.389 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:31:54.242 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:31:55.608 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:31:57.229 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:32:01.416 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:32:02.804 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:32:05.252 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:32:06.142 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:32:07.090 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:32:08.807 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:32:09.422 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-11 17:32:09.982 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-11 17:32:10.798 [info] > git rev-parse --show-toplevel [1ms]

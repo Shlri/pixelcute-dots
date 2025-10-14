@@ -1,0 +1,9 @@
+2025-10-11 21:30:10.859 [info] [project] Creating project:/home/shiri/.config/quickshell/pc
+2025-10-11 21:30:10.859 [info] [qmlls] Fetching release information
+2025-10-11 21:30:11.655 [info] [qmlls] Status Check: Not Installed
+2025-10-11 21:30:24.495 [info] [qmlls] Installing: qmlls-ubuntu-0.5.zip, 0.5
+2025-10-11 21:31:50.019 [info] [qmlls] Installation done
+2025-10-11 21:31:50.027 [info] [qmlls] Starting QML Language Server with:
+2025-10-11 21:31:50.053 [error] [qmlls] LanguageClient has failed to start with /home/shiri/.local/share/qmlls/files/qmlls
+2025-10-11 21:44:55.666 [info] [extension] Deactivating qt-qml
+2025-10-11 21:44:55.666 [info] [project] Disposing project:/home/shiri/.config/quickshell/pc
