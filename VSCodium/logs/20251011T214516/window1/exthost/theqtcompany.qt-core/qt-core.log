@@ -1,9 +1,0 @@
-2025-10-11 21:45:18.601 [info] [extension] Activating theqtcompany.qt-core
-2025-10-11 21:45:18.601 [info] [project] Creating project:"/home/shiri/.config/quickshell/pc"
-2025-10-11 21:45:18.601 [info] [vcpkg] vcpkg is not installed
-2025-10-11 21:45:18.601 [info] [qtpaths] No qtpaths or qmake found in PATH
-2025-10-11 21:45:18.601 [info] [project] Setting Qt installation root for /home/shiri/.config/quickshell/pc to: 
-2025-10-11 21:45:18.601 [info] [project] Setting additional Qt paths for /home/shiri/.config/quickshell/pc to: 
-2025-10-11 21:45:18.601 [info] [project] Config values initialized for:/home/shiri/.config/quickshell/pc
-2025-10-11 21:48:18.891 [info] [extension] Deactivating qt-core
-2025-10-11 21:48:18.892 [info] [project] Disposing project:/home/shiri/.config/quickshell/pc
