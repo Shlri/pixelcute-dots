@@ -6,10 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/shiri/.config/quickshell/pc"
-            },
-            {
-                "folderUri": "file:///home/shiri/Documents/game"
+                "folderUri": "file:///home/shiri/quickshell.org"
             }
         ],
         "emptyWindows": []
@@ -19,14 +16,18 @@
         "workspaces": {
             "file:///home/shiri/.config/quickshell/pc": "__default__profile__",
             "file:///home/shiri/Documents/code/python-ollama-tg-selfbot": "__default__profile__",
-            "file:///home/shiri/Documents/game": "__default__profile__"
+            "file:///home/shiri/Documents/game": "__default__profile__",
+            "file:///home/shiri/.config/quickshell": "__default__profile__",
+            "file:///home/shiri/Documents/c-learn": "__default__profile__",
+            "file:///home/shiri/Documents/code/python-game": "__default__profile__",
+            "file:///home/shiri/quickshell.org": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/shiri/Documents/game",
-            "backupPath": "/home/shiri/.config/VSCodium/Backups/f475b8acd4858ecb54b27dcf8adf90c3",
+            "folder": "file:///home/shiri/quickshell.org",
+            "backupPath": "/home/shiri/.config/VSCodium/Backups/8674b190a79f42e37f26c70aefc654a0",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -57,7 +58,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 237,
+            "sideBarWidth": 238,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -65,7 +66,7 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 237,
+            "sideBarWidth": 238,
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "dcbdb9992d7f8dbe35b4bea5c900df26": {
@@ -77,6 +78,22 @@
                     "auxiliaryBarVisible": false
                 },
                 "a1d9e7770742ca46efefe220d31d8f62": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "136c484bdaf808f6f4f09b5a0e277c69": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a1c08d8b7524d976e43ecb94f681b865": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "916b3825a647f6c4fff0425fdf7e778d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6771b2382f615bdd23c4c062fb63bbd3": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "Quiet Light",
-    "git.openRepositoryInParentFolders": "never"
+    "git.openRepositoryInParentFolders": "never",
+    "explorer.confirmDelete": false
 }
