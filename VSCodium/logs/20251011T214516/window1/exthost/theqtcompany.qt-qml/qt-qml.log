@@ -1,6 +1,0 @@
-2025-10-11 21:45:18.602 [info] [project] Creating project:/home/shiri/.config/quickshell/pc
-2025-10-11 21:45:18.603 [info] [qmlls] Fetching release information
-2025-10-11 21:45:19.588 [info] [qmlls] Status Check: Found, but not executable
-2025-10-11 21:48:18.892 [info] [extension] Deactivating qt-qml
-2025-10-11 21:48:18.892 [info] [project] Disposing project:/home/shiri/.config/quickshell/pc
-2025-10-11 21:48:18.892 [warning] [qmlls] Canceled
