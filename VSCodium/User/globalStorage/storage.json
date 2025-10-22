@@ -6,7 +6,16 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/shiri/quickshell.org"
+                "folderUri": "file:///home/shiri/Documents/code"
+            },
+            {
+                "folderUri": "file:///home/shiri/.config/quickshell/pc"
+            },
+            {
+                "folderUri": "file:///home/shiri/.config/quickshell"
+            },
+            {
+                "folderUri": "file:///home/shiri/.config"
             }
         ],
         "emptyWindows": []
@@ -20,19 +29,21 @@
             "file:///home/shiri/.config/quickshell": "__default__profile__",
             "file:///home/shiri/Documents/c-learn": "__default__profile__",
             "file:///home/shiri/Documents/code/python-game": "__default__profile__",
-            "file:///home/shiri/quickshell.org": "__default__profile__"
+            "file:///home/shiri/quickshell.org": "__default__profile__",
+            "file:///home/shiri/Documents/code": "__default__profile__",
+            "file:///home/shiri/.config": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/shiri/quickshell.org",
-            "backupPath": "/home/shiri/.config/VSCodium/Backups/8674b190a79f42e37f26c70aefc654a0",
+            "folder": "file:///home/shiri/.config",
+            "backupPath": "/home/shiri/.config/VSCodium/Backups/8c21f0dc459f17e68b83803f46626cf1",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 960,
+                "width": 1920,
                 "height": 1080
             }
         },
@@ -94,6 +105,14 @@
                     "auxiliaryBarVisible": false
                 },
                 "6771b2382f615bdd23c4c062fb63bbd3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "219b41cf66d444ce1aeeb5b52c8d49a3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d89d349f012ed886895eb764ef594d35": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

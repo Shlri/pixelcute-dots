@@ -17,6 +17,7 @@ Qtproject.conf
 REAPER
 user-dirs.dirs
 user-dirs.locale
-VSCodium
 wal
 xsettingsd
+obs-studio
+VSCodium
