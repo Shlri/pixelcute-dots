@@ -6,6 +6,7 @@ fvm
 gh
 gitui
 go
+goa-1.0
 godot
 gtk-3.0
 gtk-4.0
@@ -20,3 +21,4 @@ wal
 xsettingsd
 obs-studio
 VSCodium
+quickshell-examples
