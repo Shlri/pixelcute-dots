@@ -8,7 +8,7 @@ Variants {
 	id: root
 	property color backgroundColor: "#e60c0c0c"
 	property color buttonColor: "#1e1e1e"
-	property color buttonHoverColor: '#5a3ca1'
+	property color buttonHoverColor: "#3700b3"
 	default property list<LogoutButton> buttons
 
 	model: Quickshell.screens
@@ -106,4 +106,45 @@ Variants {
 			}
 		}
 	}
+	LogoutButton {
+        command: "loginctl lock-session"
+        keybind: Qt.Key_K
+        text: "Lock"
+        icon: "lock"
+    }
+
+    LogoutButton {
+        command: "loginctl terminate-user $USER"
+        keybind: Qt.Key_E
+        text: "Logout"
+        icon: "logout"
+    }
+
+    LogoutButton {
+        command: "systemctl suspend"
+        keybind: Qt.Key_U
+        text: "Suspend"
+        icon: "suspend"
+    }
+
+    LogoutButton {
+        command: "systemctl hibernate"
+        keybind: Qt.Key_H
+        text: "Hibernate"
+        icon: "hibernate"
+    }     
+
+    LogoutButton {
+        command: "systemctl poweroff"
+        keybind: Qt.Key_K
+        text: "Shutdown"
+        icon: "shutdown"
+    }
+
+    LogoutButton {
+        command: "systemctl reboot"
+        keybind: Qt.Key_R
+        text: "Reboot"
+        icon: "reboot"
+    }
 }

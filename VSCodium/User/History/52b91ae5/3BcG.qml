@@ -52,7 +52,7 @@ Scope {
 
 			Rectangle {
 				anchors.fill: parent
-				radius: 3
+				radius: 0
 				color: "#80000000"
 
 				RowLayout {
@@ -63,8 +63,8 @@ Scope {
 					}
 
 					IconImage {
-						implicitSize: 25
-						source: Quickshell.iconPath(Pipewire.defaultAudioSink?.audio.volume ?? 0)
+						implicitSize: 30
+						source: Quickshell.iconPath("audio-volume-high-symbolic")
 					}
 
 					Rectangle {
@@ -72,7 +72,7 @@ Scope {
 						Layout.fillWidth: true
 
 						implicitHeight: 10
-						radius: 3
+						radius: 20
 						color: "#50ffffff"
 
 						Rectangle {

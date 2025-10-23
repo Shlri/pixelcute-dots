@@ -64,7 +64,7 @@ Scope {
 
 					IconImage {
 						implicitSize: 25
-						source: Quickshell.iconPath(Pipewire.defaultAudioSink?.audio.volume ?? 0)
+						source: Pipewire.defaultAudioSink?.audio.volume
 					}
 
 					Rectangle {

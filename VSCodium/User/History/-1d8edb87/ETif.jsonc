@@ -25,7 +25,7 @@
       },
       {
         "type": "custom",
-        "key": "{#separator}│  {#keys}󰍹 OS {#separator} TempleOS",
+        "key": "{#separator}│  {#keys}󰍹 OS TempleOS",
       },
       {
         "type": "kernel",
