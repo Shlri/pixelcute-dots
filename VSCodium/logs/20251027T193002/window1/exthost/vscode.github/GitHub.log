@@ -1,7 +1,0 @@
-2025-10-27 19:30:04.825 [info] Log level: Info
-2025-10-27 19:30:05.349 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-10-27 19:30:05.678 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-10-27 19:30:28.948 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for Shlri/pixelcute-dots: Error: No GitHub authentication session available.
-2025-10-27 19:30:47.864 [info] Log level: Info
-2025-10-27 19:30:48.042 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-10-27 19:30:48.208 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.

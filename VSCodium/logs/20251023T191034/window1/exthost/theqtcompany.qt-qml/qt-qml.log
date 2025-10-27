@@ -1,6 +1,0 @@
-2025-10-23 19:10:49.600 [info] [project] Creating project:/home/shiri/.config
-2025-10-23 19:10:49.600 [info] [qmlls] Fetching release information
-2025-10-23 19:10:54.041 [info] [qmlls] Status Check: Found, but not executable
-2025-10-23 19:38:15.506 [info] [extension] Deactivating qt-qml
-2025-10-23 19:38:15.506 [info] [project] Disposing project:/home/shiri/.config
-2025-10-23 19:38:15.506 [warning] [qmlls] Canceled

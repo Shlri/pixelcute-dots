@@ -1,12 +1,3 @@
 {
-    "explorer.confirmDragAndDrop": false,
-    "workbench.colorTheme": "Quiet Light",
-    "git.confirmSync": false,
-    "explorer.confirmDelete": false,
-    "qt-core.additionalQtPaths": [
-        {
-            "name": "Qt-5.15.17-linux-g++_from_PATH",
-            "path": "/bin/qmake"
-        }
-    ]
+    "workbench.colorTheme": "Quiet Light"
 }

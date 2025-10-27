@@ -6,7 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/shiri/.config"
+                "folderUri": "file:///home/shiri/Batimg"
             }
         ],
         "emptyWindows": []
@@ -14,32 +14,11 @@
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/shiri/.config/quickshell/pc": "__default__profile__",
-            "file:///home/shiri/Documents/code/python-ollama-tg-selfbot": "__default__profile__",
-            "file:///home/shiri/Documents/game": "__default__profile__",
-            "file:///home/shiri/.config/quickshell": "__default__profile__",
-            "file:///home/shiri/Documents/c-learn": "__default__profile__",
-            "file:///home/shiri/Documents/code/python-game": "__default__profile__",
-            "file:///home/shiri/quickshell.org": "__default__profile__",
-            "file:///home/shiri/Documents/code": "__default__profile__",
-            "file:///home/shiri/.config": "__default__profile__",
-            "file:///home/shiri": "__default__profile__"
+            "file:///home/shiri/Batimg": "__default__profile__"
         },
-        "emptyWindows": {}
-    },
-    "windowsState": {
-        "lastActiveWindow": {
-            "folder": "file:///home/shiri/.config",
-            "backupPath": "/home/shiri/.config/VSCodium/Backups/8c21f0dc459f17e68b83803f46626cf1",
-            "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 0,
-                "width": 1920,
-                "height": 1080
-            }
-        },
-        "openedWindows": []
+        "emptyWindows": {
+            "1761592391586": "__default__profile__"
+        }
     },
     "theme": "vs",
     "themeBackground": "#f5f5f5",
@@ -61,54 +40,32 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 204,
-            "auxiliaryBarWidth": 237,
+            "sideBarWidth": 237,
+            "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/shiri/Batimg",
+            "backupPath": "/home/shiri/.config/VSCodium/Backups/6d99f7871e583660e381d0741040979f",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080
+            }
+        },
+        "openedWindows": []
+    },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 204,
-            "auxiliaryBarWidth": 237,
+            "sideBarWidth": 237,
+            "auxiliaryBarWidth": 300,
             "workspaces": {
-                "dcbdb9992d7f8dbe35b4bea5c900df26": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "15f7ee956e162cafaee220ee746a5d56": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "a1d9e7770742ca46efefe220d31d8f62": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "136c484bdaf808f6f4f09b5a0e277c69": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "a1c08d8b7524d976e43ecb94f681b865": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "916b3825a647f6c4fff0425fdf7e778d": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "6771b2382f615bdd23c4c062fb63bbd3": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "219b41cf66d444ce1aeeb5b52c8d49a3": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "d89d349f012ed886895eb764ef594d35": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": true
-                },
-                "cbbfd51f0e35b5c961e11bb57227a155": {
+                "ab248af46c00b48749c12a0fffe21188": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

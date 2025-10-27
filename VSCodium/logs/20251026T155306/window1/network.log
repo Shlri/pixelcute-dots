@@ -1,9 +1,0 @@
-2025-10-26 15:53:10.346 [error] #1: https://open-vsx.org/vscode/gallery/fill-labs/dependi/latest - error GET Offline
-2025-10-26 15:53:10.346 [error] #2: https://open-vsx.org/vscode/gallery/ms-python/debugpy/latest - error GET Offline
-2025-10-26 15:53:10.346 [error] #3: https://open-vsx.org/vscode/gallery/ms-python/python/latest - error GET Offline
-2025-10-26 15:53:10.347 [error] #4: https://open-vsx.org/vscode/gallery/ms-python/vscode-python-envs/latest - error GET Offline
-2025-10-26 15:53:10.347 [error] #5: https://open-vsx.org/vscode/gallery/rust-lang/rust-analyzer/latest - error GET Offline
-2025-10-26 15:53:10.347 [error] #6: https://open-vsx.org/vscode/gallery/tamasfe/even-better-toml/latest - error GET Offline
-2025-10-26 15:53:10.347 [error] #7: https://open-vsx.org/vscode/gallery/theqtcompany/qt-core/latest - error GET Offline
-2025-10-26 15:53:10.348 [error] #8: https://open-vsx.org/vscode/gallery/theqtcompany/qt-qml/latest - error GET Offline
-2025-10-26 15:53:10.348 [error] #9: https://open-vsx.org/vscode/gallery/vadimcn/vscode-lldb/latest - error GET Offline

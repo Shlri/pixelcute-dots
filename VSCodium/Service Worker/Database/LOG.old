@@ -1,3 +1,2 @@
-2025/10/27-19:30:02.846 699 Reusing MANIFEST /home/shiri/.config/VSCodium/Service Worker/Database/MANIFEST-000001
-2025/10/27-19:30:02.853 699 Recovering log #3
-2025/10/27-19:30:02.853 699 Reusing old log /home/shiri/.config/VSCodium/Service Worker/Database/000003.log 
+2025/10/27-22:14:17.485 6c63 Creating DB /home/shiri/.config/VSCodium/Service Worker/Database since it was missing.
+2025/10/27-22:14:17.491 6c63 Reusing MANIFEST /home/shiri/.config/VSCodium/Service Worker/Database/MANIFEST-000001

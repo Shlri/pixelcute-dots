@@ -1,3 +1,2 @@
-2025/10/27-19:30:02.845 698 Reusing MANIFEST /home/shiri/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
-2025/10/27-19:30:02.853 698 Recovering log #3
-2025/10/27-19:30:02.853 698 Reusing old log /home/shiri/.config/VSCodium/Local Storage/leveldb/000003.log 
+2025/10/27-22:13:10.867 6c64 Creating DB /home/shiri/.config/VSCodium/Local Storage/leveldb since it was missing.
+2025/10/27-22:13:10.884 6c64 Reusing MANIFEST /home/shiri/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001

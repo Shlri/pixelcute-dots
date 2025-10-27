@@ -1,3 +1,2 @@
-2025/10/27-19:30:55.089 698 Reusing MANIFEST /home/shiri/.config/VSCodium/Session Storage/MANIFEST-000001
-2025/10/27-19:30:55.089 698 Recovering log #3
-2025/10/27-19:30:55.090 698 Reusing old log /home/shiri/.config/VSCodium/Session Storage/000003.log 
+2025/10/27-22:15:37.091 6c63 Creating DB /home/shiri/.config/VSCodium/Session Storage since it was missing.
+2025/10/27-22:15:37.097 6c63 Reusing MANIFEST /home/shiri/.config/VSCodium/Session Storage/MANIFEST-000001
