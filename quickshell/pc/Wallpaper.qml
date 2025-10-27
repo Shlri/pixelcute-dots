@@ -18,7 +18,7 @@ PanelWindow {
     exclusionMode: ExclusionMode.Ignore
     
     // Important: Set Z-order to bottom
-    z: -1000
+    z: -1
     
     // Don't steal focus or input
     mask: Region {}
@@ -52,7 +52,7 @@ PanelWindow {
     // Background base color (fallback)
     Rectangle {
         anchors.fill: parent
-        color: "#0d0d1e"
+        color: '#ffffff'
     }
     
     // PARALLAX LAYERS WITH IMAGES
@@ -106,13 +106,13 @@ PanelWindow {
             anchors.centerIn: parent
             width: parent.width * 1.1
             height: parent.height * 1.1
-            source: wallpaperPath + "layer2.png"
+            source: wallpaperPath + "layer1.png"
             fillMode: Image.PreserveAspectCrop
             smooth: true
             
             onStatusChanged: {
                 if (status === Image.Error) {
-                    console.log("Warning: layer2.png not found")
+                    console.log("Warning: layer1.png not found")
                 }
             }
         }
@@ -136,7 +136,7 @@ PanelWindow {
             anchors.centerIn: parent
             width: parent.width * 1.1
             height: parent.height * 1.1
-            source: wallpaperPath + "layer1.png"
+            source: wallpaperPath + "layer2.png"
             fillMode: Image.PreserveAspectCrop
             smooth: true
             
