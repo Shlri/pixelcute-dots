@@ -1,0 +1,11 @@
+2025-10-26 15:53:07.802 [info] Started local extension host with pid 17545.
+2025-10-26 15:53:09.636 [error] [Extension Host] Sending request failed.
+2025-10-26 15:53:09.664 [error] [Extension Host] Sending request failed.
+2025-10-26 15:53:09.673 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (file:///opt/vscodium-bin/resources/app/out/bootstrap-fork.js:3:11805)
+	at process.emit (node:events:518:28)
+2025-10-26 15:53:09.677 [error] [Extension Host] Sending request failed.
+2025-10-26 15:53:09.688 [error] [Extension Host] Sending request failed.
+2025-10-26 15:53:09.690 [error] [Extension Host] Sending request failed.
+2025-10-26 15:53:10.571 [info] [perf] Render performance baseline is 30ms
+2025-10-26 15:53:10.624 [error] An unknown error occurred. Please consult the log for more details.

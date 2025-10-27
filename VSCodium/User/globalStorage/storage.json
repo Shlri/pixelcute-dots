@@ -6,15 +6,6 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/shiri/Documents/code"
-            },
-            {
-                "folderUri": "file:///home/shiri/.config/quickshell/pc"
-            },
-            {
-                "folderUri": "file:///home/shiri/.config/quickshell"
-            },
-            {
                 "folderUri": "file:///home/shiri/.config"
             }
         ],
@@ -31,7 +22,8 @@
             "file:///home/shiri/Documents/code/python-game": "__default__profile__",
             "file:///home/shiri/quickshell.org": "__default__profile__",
             "file:///home/shiri/Documents/code": "__default__profile__",
-            "file:///home/shiri/.config": "__default__profile__"
+            "file:///home/shiri/.config": "__default__profile__",
+            "file:///home/shiri": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -69,16 +61,16 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
-            "auxiliaryBarWidth": 0,
+            "sideBarWidth": 204,
+            "auxiliaryBarWidth": 237,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 170,
-            "auxiliaryBarWidth": 238,
+            "sideBarWidth": 204,
+            "auxiliaryBarWidth": 237,
             "workspaces": {
                 "dcbdb9992d7f8dbe35b4bea5c900df26": {
                     "sideBarVisible": true,
@@ -113,6 +105,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "d89d349f012ed886895eb764ef594d35": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "cbbfd51f0e35b5c961e11bb57227a155": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

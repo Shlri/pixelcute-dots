@@ -1,0 +1,10 @@
+2025-10-23 19:10:35.007 [info] Started local extension host with pid 36758.
+2025-10-23 19:10:37.707 [info] [perf] Render performance baseline is 46ms
+2025-10-23 19:10:47.385 [error] Error while getting the latest version for the extension ms-python.python. Error: Fetch timeout: 10000ms
+2025-10-23 19:10:47.386 [error] Error while getting the latest version for the extension ms-python.vscode-python-envs. Error: Fetch timeout: 10000ms
+2025-10-23 19:10:47.387 [error] Error while getting the latest version for the extension tamasfe.even-better-toml. Error: Fetch timeout: 10000ms
+2025-10-23 19:10:47.388 [error] Error while getting the latest version for the extension theqtcompany.qt-core. Error: Fetch timeout: 10000ms
+2025-10-23 19:10:47.388 [error] Error while getting the latest version for the extension theqtcompany.qt-qml. Error: Fetch timeout: 10000ms
+2025-10-23 19:10:47.389 [error] Error while getting the latest version for the extension vadimcn.vscode-lldb. Error: Fetch timeout: 10000ms
+2025-10-23 19:28:34.312 [error] [Extension Host] (node:36758) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

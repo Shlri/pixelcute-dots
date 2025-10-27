@@ -1,0 +1,13 @@
+2025-10-26 15:13:07.129 [info] Started local extension host with pid 13923.
+2025-10-26 15:13:08.638 [error] [Extension Host] (node:13923) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-26 15:13:09.946 [info] [perf] Render performance baseline is 47ms
+2025-10-26 15:13:20.350 [error] [Extension Host] Sending request failed.
+2025-10-26 15:13:20.355 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (file:///opt/vscodium-bin/resources/app/out/bootstrap-fork.js:3:11805)
+	at process.emit (node:events:518:28)
+2025-10-26 15:13:20.355 [error] [Extension Host] Sending request failed.
+2025-10-26 15:13:20.402 [error] [Extension Host] Sending request failed.
+2025-10-26 15:13:20.404 [error] [Extension Host] Sending request failed.
+2025-10-26 15:13:20.406 [error] [Extension Host] Sending request failed.
+2025-10-26 15:13:21.371 [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,13 @@
+2025-10-27 19:30:03.854 [info] Started local extension host with pid 1774.
+2025-10-27 19:30:11.944 [info] [perf] Render performance baseline is 40ms
+2025-10-27 19:30:18.264 [error] Error while getting the latest version for the extension fill-labs.dependi. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.265 [error] Error while getting the latest version for the extension ms-python.debugpy. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.265 [error] Error while getting the latest version for the extension ms-python.python. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.266 [error] Error while getting the latest version for the extension ms-python.vscode-python-envs. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.266 [error] Error while getting the latest version for the extension rust-lang.rust-analyzer. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.267 [error] Error while getting the latest version for the extension tamasfe.even-better-toml. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.267 [error] Error while getting the latest version for the extension theqtcompany.qt-core. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.268 [error] Error while getting the latest version for the extension theqtcompany.qt-qml. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:18.268 [error] Error while getting the latest version for the extension vadimcn.vscode-lldb. Error: Fetch timeout: 10000ms
+2025-10-27 19:30:46.294 [info] Started local extension host with pid 3822.
+2025-10-27 19:30:49.165 [info] [perf] Render performance baseline is 27ms

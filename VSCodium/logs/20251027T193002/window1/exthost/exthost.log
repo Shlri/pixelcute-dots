@@ -1,0 +1,36 @@
+2025-10-27 19:30:04.397 [info] Extension host with pid 1774 started
+2025-10-27 19:30:04.397 [info] Skipping acquiring lock for /home/shiri/.config/VSCodium/User/workspaceStorage/cbbfd51f0e35b5c961e11bb57227a155.
+2025-10-27 19:30:04.421 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-27 19:30:04.465 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-27 19:30:04.569 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-27 19:30:04.705 [info] ExtensionService#_doActivateExtension fill-labs.dependi, startup: true, activationEvent: 'workspaceContains:**/Cargo.toml,**/go.mod,**/package.json,**/composer.json,**/requirements.txt,**/requirements.in,**/pixi.toml,**/pyproject.toml'
+2025-10-27 19:30:04.916 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-27 19:30:05.176 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-27 19:30:11.413 [info] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern **/pylock.*.toml
+2025-10-27 19:30:11.414 [info] Not activating extension 'rust-lang.rust-analyzer': Timed out while searching for 'workspaceContains' pattern */Cargo.toml,*/rust-project.json,*/.rust-project.json
+2025-10-27 19:30:11.414 [info] Not activating extension 'theqtcompany.qt-qml': Timed out while searching for 'workspaceContains' pattern *.qml,*.qmldir
+2025-10-27 19:30:11.414 [info] Eager extensions activated
+2025-10-27 19:30:11.419 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-27 19:30:11.422 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-27 19:30:11.444 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-10-27 19:30:45.607 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-27 19:30:45.616 [info] Extension host with pid 1774 exiting with code 0
+2025-10-27 19:30:46.877 [info] Extension host with pid 3822 started
+2025-10-27 19:30:46.877 [info] Skipping acquiring lock for /home/shiri/.config/VSCodium/User/workspaceStorage/d89d349f012ed886895eb764ef594d35.
+2025-10-27 19:30:47.156 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-27 19:30:47.178 [info] ExtensionService#_doActivateExtension theqtcompany.qt-core, startup: false, activationEvent: 'onLanguage:qml', root cause: theqtcompany.qt-qml
+2025-10-27 19:30:47.389 [info] ExtensionService#_doActivateExtension theqtcompany.qt-qml, startup: false, activationEvent: 'onLanguage:qml'
+2025-10-27 19:30:47.528 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-27 19:30:47.567 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-27 19:30:47.626 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-27 19:30:47.757 [info] Eager extensions activated
+2025-10-27 19:30:47.777 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-27 19:30:47.781 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-27 19:30:47.811 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-10-27 19:30:47.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-10-27 19:30:47.934 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-27 19:30:48.053 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2025-10-27 19:30:50.314 [warning] [Decorations] CAPPING events from decorations provider vscode.git 260
+2025-10-27 19:30:52.517 [warning] The task [Qt, Acquire Port] uses an undefined task type. The task will be ignored in the future.
+2025-10-27 19:30:55.016 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-27 19:30:55.040 [info] Extension host with pid 3822 exiting with code 0

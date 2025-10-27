@@ -1,0 +1,9 @@
+2025-10-27 19:30:18.264 [error] #1: https://open-vsx.org/vscode/gallery/fill-labs/dependi/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.265 [error] #2: https://open-vsx.org/vscode/gallery/ms-python/debugpy/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.265 [error] #3: https://open-vsx.org/vscode/gallery/ms-python/python/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.265 [error] #4: https://open-vsx.org/vscode/gallery/ms-python/vscode-python-envs/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.266 [error] #5: https://open-vsx.org/vscode/gallery/rust-lang/rust-analyzer/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.267 [error] #6: https://open-vsx.org/vscode/gallery/tamasfe/even-better-toml/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.267 [error] #7: https://open-vsx.org/vscode/gallery/theqtcompany/qt-core/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.268 [error] #8: https://open-vsx.org/vscode/gallery/theqtcompany/qt-qml/latest - error GET Fetch timeout: 10000ms
+2025-10-27 19:30:18.268 [error] #9: https://open-vsx.org/vscode/gallery/vadimcn/vscode-lldb/latest - error GET Fetch timeout: 10000ms

@@ -1,0 +1,7 @@
+2025-10-26 15:13:20.179 [info] [project] Creating project:/home/shiri/.config
+2025-10-26 15:13:20.179 [info] [qmlls] Fetching release information
+2025-10-26 15:13:20.320 [warning] [qmlls] fetch failed
+2025-10-26 15:13:20.327 [info] [qmlls] Starting QML Language Server with:
+2025-10-26 15:13:20.349 [error] [qmlls] LanguageClient has failed to start with /home/shiri/.local/share/qmlls/files/qmlls
+2025-10-26 15:30:12.390 [info] [extension] Deactivating qt-qml
+2025-10-26 15:30:12.390 [info] [project] Disposing project:/home/shiri/.config
