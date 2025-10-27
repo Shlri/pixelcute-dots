@@ -1,3 +1,9 @@
 {
-    "workbench.colorTheme": "Quiet Light"
+    "workbench.colorTheme": "Quiet Light",
+    "qt-core.additionalQtPaths": [
+        {
+            "name": "Qt-5.15.17-linux-g++_from_PATH",
+            "path": "/bin/qmake"
+        }
+    ]
 }

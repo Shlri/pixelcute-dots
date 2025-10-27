@@ -6,7 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/shiri/Batimg"
+                "folderUri": "file:///home/shiri/.config"
             }
         ],
         "emptyWindows": []
@@ -14,11 +14,10 @@
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/shiri/Batimg": "__default__profile__"
+            "file:///home/shiri/Batimg": "__default__profile__",
+            "file:///home/shiri/.config": "__default__profile__"
         },
-        "emptyWindows": {
-            "1761592391586": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "theme": "vs",
     "themeBackground": "#f5f5f5",
@@ -48,8 +47,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/shiri/Batimg",
-            "backupPath": "/home/shiri/.config/VSCodium/Backups/6d99f7871e583660e381d0741040979f",
+            "folder": "file:///home/shiri/.config",
+            "backupPath": "/home/shiri/.config/VSCodium/Backups/8c21f0dc459f17e68b83803f46626cf1",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -66,6 +65,10 @@
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "ab248af46c00b48749c12a0fffe21188": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d89d349f012ed886895eb764ef594d35": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }
