@@ -7,6 +7,9 @@
         "folders": [
             {
                 "folderUri": "file:///home/shiri/.config"
+            },
+            {
+                "folderUri": "file:///home/shiri/Documents/erica-site"
             }
         ],
         "emptyWindows": []
@@ -15,7 +18,8 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/shiri/Batimg": "__default__profile__",
-            "file:///home/shiri/.config": "__default__profile__"
+            "file:///home/shiri/.config": "__default__profile__",
+            "file:///home/shiri/Documents/erica-site": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -47,13 +51,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/shiri/.config",
-            "backupPath": "/home/shiri/.config/VSCodium/Backups/8c21f0dc459f17e68b83803f46626cf1",
+            "folder": "file:///home/shiri/Documents/erica-site",
+            "backupPath": "/home/shiri/.config/VSCodium/Backups/bd0158e4413a00725904b8f4d6415845",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 1920,
+                "width": 960,
                 "height": 1080
             }
         },
@@ -69,6 +73,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "d89d349f012ed886895eb764ef594d35": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "de82169a3ecad7674d23a3fbf2c5dfb8": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }
