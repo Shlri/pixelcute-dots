@@ -1,18 +1,19 @@
 {
     "telemetry.sqmId": "",
     "telemetry.machineId": "d74aa06f84002c05215d5fe3cd58908fb9dcc14c268db1129f8db5e2f3ae9dc2",
-    "telemetry.devDeviceId": "7e4f2bc3-247d-45eb-9eb5-c085b459038e",
+    "telemetry.devDeviceId": "70680dbd-f9f3-4f56-92f2-1eac3b70faf8",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
             {
                 "folderUri": "file:///home/shiri/.config"
-            },
-            {
-                "folderUri": "file:///home/shiri/Documents/erica-site"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1763136714046"
+            }
+        ]
     },
     "windowControlHeight": 35,
     "profileAssociations": {
@@ -43,7 +44,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 237,
+            "sideBarWidth": 238,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -51,8 +52,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/shiri/Documents/erica-site",
-            "backupPath": "/home/shiri/.config/VSCodium/Backups/bd0158e4413a00725904b8f4d6415845",
+            "folder": "file:///home/shiri/.config",
+            "backupPath": "/home/shiri/.config/VSCodium/Backups/8c21f0dc459f17e68b83803f46626cf1",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -65,7 +66,7 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 237,
+            "sideBarWidth": 238,
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "ab248af46c00b48749c12a0fffe21188": {
@@ -77,6 +78,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "de82169a3ecad7674d23a3fbf2c5dfb8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e3941978a215b51ed20a7862ea1fbef8": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

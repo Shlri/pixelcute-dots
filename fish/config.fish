@@ -12,6 +12,7 @@ if status is-interactive
 
     starship init fish | source
 
-    alias install "sudo pacman -S"
+    alias hx helix
+    alias ls "exa --icons"
     fastfetch
 end

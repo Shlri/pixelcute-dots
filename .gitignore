@@ -13,7 +13,7 @@ gtk-4.0
 nwg-look
 pulse
 QtProject
-Qtproject.conf
+QtProject.conf
 REAPER
 user-dirs.dirs
 user-dirs.locale
@@ -25,3 +25,8 @@ VSCodium
 session
 cava
 dolphinrc
+ow-electron
+flutter
+lunarclient
+mimeapps.list
+

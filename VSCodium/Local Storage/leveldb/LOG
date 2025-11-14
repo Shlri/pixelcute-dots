@@ -1,3 +1,3 @@
-2025/10/29-21:17:24.230 154c Reusing MANIFEST /home/shiri/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
-2025/10/29-21:17:24.237 154c Recovering log #3
-2025/10/29-21:17:24.238 154c Reusing old log /home/shiri/.config/VSCodium/Local Storage/leveldb/000003.log 
+2025/11/14-19:52:19.238 6c2 Reusing MANIFEST /home/shiri/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
+2025/11/14-19:52:19.244 6c2 Recovering log #3
+2025/11/14-19:52:19.244 6c2 Reusing old log /home/shiri/.config/VSCodium/Local Storage/leveldb/000003.log 
